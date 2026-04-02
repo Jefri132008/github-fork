@@ -1,2 +1,2 @@
 # github-fork
-Hello, i'm Jefri. This is readme from fork repository
+Hello, i'm Jefri. This is readme from upstream repository
